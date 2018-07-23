@@ -1,0 +1,7 @@
+2013-04-17 23:32:56.944 INFO com.couchbase.client.CouchbaseConnection:  Added {QA sa=/127.0.0.1:11210, #Rops=0, #Wops=0, #iq=0, topRop=null, topWop=null, toWrite=0, interested=0} to connect queue
+2013-04-17 23:32:56.950 INFO com.couchbase.client.CouchbaseConnection:  Connection state changed for sun.nio.ch.SelectionKeyImpl@12b7eea
+2013-04-17 23:32:56.978 INFO com.couchbase.client.ViewConnection:  Added localhost.localdomain to connect queue
+2013-04-17 23:32:56.980 INFO com.couchbase.client.CouchbaseClient:  viewmode property isn't defined. Setting viewmode to production mode
+2013-04-17 23:32:57.136 INFO com.couchbase.client.CouchbaseConnection:  Shut down Couchbase client
+2013-04-17 23:32:57.146 INFO com.couchbase.client.ViewConnection:  Node localhost.localdomain has no ops in the queue
+2013-04-17 23:32:57.147 INFO com.couchbase.client.ViewNode:  I/O reactor terminated for localhost.localdomain
