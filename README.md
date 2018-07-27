@@ -1,22 +1,24 @@
 # BG
-BG is a benchmark to evaluate performance of a data store for interactive social networking actions and sessions.These actions and sessions either read or update a very small amount of the entire data set.
+BG is a benchmark to evaluate performance of a data store for interactive social networking actions and sessions.  These actions and sessions either read or update a very small amount of the entire data set.
 
 ### Authors  
 Yazeed Alabdulkarim,  Sumita Barahmand, and Shahram Ghandeharizadeh
 
-The documentation for this version of BG is identical to the one posted at [bgbenchmark.org](http://bgbenchmark.org/).  Its key differences are:
+### Description
 
-1) It implements 3 decentralized techniques for generating meaningful actions.
+The documentation for this version of BG is similar to the one posted at [bgbenchmark.org](http://bgbenchmark.org/) with the following extensions:
+
+1) Three decentralized techniques for generating meaningful actions.
 
 2) Disjoint Database scales superlinearly as a function of nodes.
 
-3) Integrated Database (Retain and Delegate) maybe more suitable to evaluate certain classes of data stores.
+3) Integrated Database (Retain and Delegate) maybe more suitable to evaluate certain classes of data stores, see introduction of [database lab technical report  2018-01](http://dblab.usc.edu/Users/papers/bgscalable.pdf).
 
-4) A hybrid technique combines the strengths of Disjoint and Integrated Database.
+4) A hybrid technique that combines the strengths of Disjoint and Integrated Database.
 
 For a complete description, see [database lab technical report  2018-01](http://dblab.usc.edu/Users/papers/bgscalable.pdf).
 
-Running this version of BG is similar to the one posted at [bgbenchmark.org](http://bgbenchmark.org/) with the difference of the following additional parameters:
+Running this version of BG is similar to the one posted at [bgbenchmark.org](http://bgbenchmark.org/) with the following additional parameters:
 
 <table>
   <tr>
