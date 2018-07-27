@@ -44,7 +44,9 @@ Running this version of BG is similar to the one posted at [bgbenchmark.org](htt
 </table>
 
 
-To be complete, here is a description of all the parameters to run BG.  The essential parameters are listed in the first table:
+For completeness, we provide a description of all BG parameters below in two tables.  The first table lists essential parameters that must be specified when running BG.  The second table lists the optional parameters.
+
+Here are the essential parameters that must be specified when running this version of BG: 
 
 <table>
   <tr>
@@ -147,7 +149,7 @@ The members are assigned memberids in a sequential manner.
   </tr>
 </table>
 
-
+Here are the optional parameters to customize BG:
 
 <table>
   <tr>
